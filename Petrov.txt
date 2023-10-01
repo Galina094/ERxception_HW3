@@ -1,0 +1,3 @@
+<Petrov><Maksim><Maksimovich><1990.12.10><4444><m>
+<Petrov><Dim><Dimich><2000.12.12><3333><m>
+<Petrov><Egor><Egorich><1345.11.11><1111><m>
